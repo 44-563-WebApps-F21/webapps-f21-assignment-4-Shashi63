@@ -45,3 +45,24 @@ color: black;
 background-color: rgb(255, 220, 253);
 
 } 
+table,tr,td
+{
+    border:2px solid gold;
+    color:seagreen    
+}
+th{
+    border:2px solid blue;
+    color:red
+}
+td
+{
+    text-align:center;
+}
+th,td
+{ 
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+
+}
